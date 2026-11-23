@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33019882/README.md)
 # Blender TA Tools
 
 这是我在大一期间，通过 Python + Blender API 独立开发的自动化工具集。
